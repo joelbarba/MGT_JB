@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"country",
+				"country_code"
+			],
+			[
+				"cal",
+				"camel_str"
+			],
+			[
+				"came",
+				"camel_str"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"last_filter": "find",
+		"selected_items":
+		[
+			[
+				"find",
+				"Reg Replace: Find colon"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 364.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/joel/Joel_Apps/MTG_JB"
+	],
+	"file_history":
+	[
+		"/home/joel/Downloads/model magic.sql",
+		"/home/joel/Downloads/untitled.js",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2/items.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD3/items.html.tpl",
+		"/home/joel/Joel_Apps/Test_NgMeteor/doc.txt",
+		"/home/joel/Downloads/Cards.dat",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD1/directives.js.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD3/directives.js.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2/directives.js.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2/item-details.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD3/locale-en_IE.json.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD3/services.js.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/locale-en_IE.json",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2/locale-en_IE.json.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD1/locale-en_IE.json.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD1/item-details.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD1/items.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/views/bundles-handler.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/directives.js",
+		"/home/joel/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/joel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/joel/Downloads/recordings_20160627_115328 (1).zip",
+		"/home/joel/Downloads/Meteor and MongoDB.txt",
+		"/home/joel/euro2016.mongodb.txt",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_spliceuicore/app/scripts/common/app.ts",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/project-config.js",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2/project-config.js.tpl",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_spliceuicore/app/scripts/common/services.tsc",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/views/destination-group-details.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/views/destination-groups-list.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/services.js",
+		"/home/joel/glyphicon list.txt",
+		"/home/joel/all_perms2.txt",
+		"/home/joel/data.txt",
+		"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2/sample.png",
+		"/home/joel/test-media-page.html",
+		"/home/joel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/joel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/joel/Desktop/sublime how to.txt",
+		"/home/joel/.config/sublime-text-3/Packages/User/Default.sublime-commands",
+		"/home/joel/.config/sublime-text-3/Packages/User/reg_replace.sublime-settings",
+		"/home/joel/all_perms.txt",
+		"/home/joel/.config/sublime-text-3/Packages/RegReplace/Default.sublime-commands",
+		"/home/joel/.config/sublime-text-3/Packages/RegReplace/reg_replace.sublime-settings",
+		"/home/joel/BLUEFACE/JOEL/generator/item-details.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/items.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/directives.js.tpl",
+		"/home/joel/tmp",
+		"/home/joel/BLUEFACE/JOEL/generator/locale-en_IE.json.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/services.js.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/project-config.js.tpl",
+		"/home/joel/Desktop/notTemplated.js",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/locale-en_IE.json.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/views/templates.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/views/template-details.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/items.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/views/items.html",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/items.html.tpl",
+		"/home/joel/BLUEFACE/JOEL/generator/package.json",
+		"/home/joel/BLUEFACE/JOEL/generator/newCRUD/directives.js.tpl",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_spliceuiportal/blueface_splice/Gruntfile.js",
+		"/home/joel/BLUEFACE/JOEL/generator/Gruntfile.js",
+		"/home/joel/BLUEFACE/JOEL/generator/npm-debug.log",
+		"/home/joel/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_spliceuih3g/blueface_splice/app/styles/scss/whitelabel.scss",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_spliceuicore/bower_components/angular/angular.js",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_spliceuicore/app/index.html",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_webapi/apidoc.json",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_webapi/webapi/config.py",
+		"/home/joel/BLUEFACE/ALEXIA/blueface_webapi/webapi/application.py",
+		"/home/joel/BLUEFACE/ALEXIA/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/joel/BLUEFACE/JOEL/generator/Templates/CRUD2",
+			"/home/joel/BLUEFACE/JOEL/generator/Templates",
+			"/home/joel/BLUEFACE/JOEL/generator"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filterPattern",
+			"filterName",
+			"},{",
+			"itemId",
+			"},{",
+			".fields",
+			"view.bundle_types.fields",
+			"rate",
+			"ratesForm",
+			"itemId",
+			"RatesFactory",
+			"ratesList",
+			"referencesFilter",
+			"@@ITEM@",
+			"rate",
+			"COLUMN1",
+			"',",
+			"filterName",
+			"select",
+			"copy",
+			"Ctrl+shift+",
+			"Ctrl+shift+D",
+			"\n---------------------------------------------------------------------------------------------",
+			"---------------------------------------------------------------------------------------------\n",
+			"touch",
+			"unfud",
+			" %",
+			"ngPat",
+			"tsc",
+			"\n-----------------------------------",
+			"translate",
+			"selectedValue",
+			"controllers.@@ITEM",
+			"controllers.@@ITEM_",
+			"add_@@ITEM@",
+			"view.@@TITLE",
+			"ITEM_SPACES",
+			"fromCamelToSpaces",
+			"fromCamelToHypen",
+			"fromCameltoHypen",
+			"  function fromCameltoHypen(camel_str) {\n    var hypen_str = camel_str[0].toLowerCase();\n    for (var t = 1; t < camel_str.length; t++ ) {\n      if (camel_str[t] == camel_str[t].toUpperCase()) {\n        hypen_str += '-' + camel_str[t].toLowerCase();\n      } else {\n        hypen_str += camel_str[t];\n      }\n    }\n    return hypen_str;\n  }  \n",
+			"@@ITEM@",
+			"\n                <!-- @@COLUMN3_LABEL@ -->\n                <div class=\"col-md-@@COLUMN3_SIZE@\" list-col-title title=\"view.@@TITLE@.fields.@@COLUMN3@\" field=\"@@COLUMN3@\" order-params=\"orderParams\"></div>",
+			"country",
+			"smartSelect",
+			":before",
+			"advanced_fields",
+			"wifi",
+			"$inject",
+			"inject",
+			"bfAngularApp.bfController",
+			"bfBaseControllerPackager",
+			"bfBaseControllerFactory",
+			"inheritsFrom",
+			"BFBaseController",
+			"bfBaseControllerPackager",
+			"bfBaseControllerPackager\n",
+			"bfAngularApp.bfBaseControllerPackager\n",
+			"bfAngularApp.bfBaseControllerPackager",
+			"inheritsFrom",
+			"InheritanceControllerFactory",
+			".BFBaseController",
+			"BFBaseController",
+			"bfControllerFactory",
+			"bfBaseControllerFactory",
+			"bfBaseControllerPackager",
+			"bfAngularApp.bfBaseControllerPackager",
+			"bfBaseController",
+			"bfBaseControllerPackager",
+			"BFBaseController",
+			"bfBaseUserController",
+			">\n",
+			"\n----------------------------------------------------",
+			"wlan0",
+			"essid",
+			"@@TITLE_CAPITAL@",
+			"subli",
+			"sublime",
+			"devices",
+			"AndroidJ",
+			":(.)+",
+			"(:)*",
+			":*",
+			":",
+			"delete",
+			":",
+			"\", \"",
+			":",
+			" ",
+			"\", \"",
+			"noc",
+			"TODO",
+			"extend",
+			"device_variables",
+			"field",
+			"'},\n",
+			"\n      <!-- @@COLUMN1_LABEL@ -->\n      <div class=\"row\">\n        <div class=\"col-xs-12\">\n          <div class=\"form-group\">\n            <label><span translate>\"view.@@TITLE@.field.@@COLUMN1@\"</span>:</label>\n            <input type=\"text\" ng-model=\"@@ITEM@.@@COLUMN1@\"\n                   ng-minlength=\"@@COLUMN1_MINLEN@\" ng-maxlength=\"@@COLUMN1_MAXLEN@\"\n                   class=\"form-control\" required/>\n          </div>\n        </div>\n      </div>",
+			"templateForm",
+			"form",
+			"COLUMN1_SIZE",
+			"');\n",
+			"}\n",
+			"@@@",
+			"\"\n",
+			"@@list_array@",
+			"@@directive_name_cc@",
+			"@@directive_name@",
+			"@@service_name@",
+			"@@folder_name_us@",
+			"@@folder_name@",
+			"@@item_capital@",
+			"@@item_id_cc@",
+			"@@item@",
+			"@@title@",
+			"@form_name@",
+			"@list_array@",
+			"@directive_name_cc@",
+			"@directive_name@",
+			"@service_name@",
+			"@folder_name_us@",
+			"@folder_name@",
+			"@item_capital@",
+			"@item_id_cc@",
+			"@item@",
+			"@title@",
+			"@directive_name_camel@",
+			"ctrl+alt+d",
+			"- Restart sublime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"@@SERVICE_NAME@",
+			"@@LIST_ARRAY@",
+			"COLUMN5",
+			"COLUMN4",
+			"COLUMN3",
+			"filterPattern",
+			"camelToSpaces",
+			"camelToHypen",
+			"fromCamelToHypen",
+			"",
+			"@@",
+			"@@LIST_ARRAY@",
+			"@@DIRECTIVE_NAME_CC@",
+			"@@DIRECTIVE_NAME@",
+			"@@SERVICE_NAME@",
+			"@@FOLDER_NAME_US@",
+			"@@FOLDER_NAME@",
+			"@@ITEM_CAPITAL@",
+			"@@ITEM_ID_CC@",
+			"@@ITEM@",
+			"@@TITLE@",
+			"@@FORM_NAME@",
+			"@@list_array@",
+			"@@directive_name_cc@",
+			"@@directive_name@",
+			"@@service_name@",
+			"@@folder_name_us@",
+			"@@folder_name@",
+			"@@item_capital@",
+			"@@item_id_cc@",
+			"@@item@",
+			"@@title@",
+			"@directive_name_cc@",
+			"templates",
+			"template",
+			"Template",
+			"device-types",
+			"device_types",
+			"device-templates-handler",
+			"DeviceTemplate",
+			"deviceTemplatesHandler",
+			"templatesList",
+			"templateForm",
+			"@list_array@",
+			"@title@",
+			"@service_name@"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mtg_jb.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
